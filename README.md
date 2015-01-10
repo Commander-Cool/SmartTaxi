@@ -13,5 +13,7 @@ Gordon Marks
 
 # APK avaiable for install on Android Phone
 Sample Login Account Information:
+
               - Username: Bob
+              
               - Password: bob
